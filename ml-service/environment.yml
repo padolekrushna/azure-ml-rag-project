@@ -1,0 +1,9 @@
+name: rag-env
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - azure-storage-blob
+    - sentence-transformers
+    - faiss-cpu
+    - python-dotenv

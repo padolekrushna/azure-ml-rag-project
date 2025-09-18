@@ -1,0 +1,4 @@
+azure-storage-blob
+sentence-transformers
+faiss-cpu
+python-dotenv
